@@ -3,6 +3,11 @@ EmoContext-A-SHARED-TASK-AT-SEMEVAL-2019
 
 Information regarding the Task: https://www.humanizing-ai.com/emocontext.html
 
+Dataset can be obtained by joining their linkedin group
+
+**Proposed Architecture**
+../model.png
+
 **Abstract**
 With the advent of text messaging applications and digital assistants in conversations, it has become inevitable for these digital agents to recognize the emotions and appropriately give a response. However, emotions are complicated to understand in a discussion due to the presence of ambiguity. A reaction generated in the human physiological state as a result of internal or external factors is called Emotions. 
 
