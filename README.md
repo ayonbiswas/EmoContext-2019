@@ -50,4 +50,4 @@ example - Hinglish (Hindi + English), Tanglish (Tamil + English).
 
 [3] Hamid Palangi, Li Deng, Yelong Shen, Jianfeng Gao, Xiaodong He, Jianshu Chen, Xinying Song, and Rabab Ward. 2016. Deep sentence embedding using long short-term memory networks: analysis and application to information retrieval. IEEE/ACM Trans. Audio, Speech and Lang. Proc. 24, 4 (April 2016), 694-707. DOI: https://doi.org/10.1109/TASLP.2016.2520371
 
-[4]Rong, X. (n.d.). word2vec Parameter Learning Explained, 1–21.
+[4] Rong, X. (n.d.). word2vec Parameter Learning Explained, 1–21.
